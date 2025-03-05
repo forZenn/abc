@@ -1,0 +1,8 @@
+//
+//  ios13.xcconfig
+//  abc
+//
+//  Created by Otogawa Katsutoshi on 2025/03/05.
+//
+
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = IOS13_OR_LATER

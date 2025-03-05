@@ -5,6 +5,9 @@
 //  Created by Otogawa Katsutoshi on 2025/03/05.
 //
 
+#if IOS12
+#elseif IOS13_OR_LATER
+
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
@@ -52,4 +55,4 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
 
 }
-
+#endif
